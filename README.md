@@ -1,16 +1,33 @@
-### Hi there 👋
-
-<!--
-**pixincreate/pixincreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, it's me, PiX!
+A guy with dreams, striving to get his dreams come true.!   
+I'm a **19** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
+  
+### Languages known to Digital World:  
+- C/C++
+- Java
+- Python
+- HTML
+- SQL
+- Golang
+#### Languages known to communicate:
+- Kannada
+- English
+- Hindi
+  
+### I'm currently working on  
+- 2 Projects(One is planned and yet to be started).
+- _to be updated..._
+  
+### I'm currently learning   
+- Machine Learning with TensorFlow, Kaggle and teachable Machine
+- OpenCV with C++ and python.
+- 3D after effects with Maxon Cinema4D.
+- Android with Java and flutter.  
+  
+### How to reach me?  
+- You can contact me at **pixincreate@gmail.com** via mail.
+- **@pixincreate** on [Instagram](https://instagram.com)(_account might shutdown whenever possible_) and [Twitter](https://twitter.com).
+  
+### Fun fact about me:
+- Paranoid about Online **Privacy**.
+- **Jalebi** is love.

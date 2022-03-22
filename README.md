@@ -9,20 +9,17 @@ I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2
 - HTML
 - SQL
 - Golang
-#### Languages known to communicate:
-- Kannada
-- English
-- Hindi
   
-### I'm currently working on  
-- 2 Projects(One is planned and yet to be started).
-- _to be updated..._
+### I'm currently working on and planning to work  
+- `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)
+- `> Dairy_` (A dairy to record your life that can calculate your expenses along with keeping your memories intact for years!)
+- 2 Websites (DJango + MongoDB and Heroku + PostGreSQL)
+- Gaming most of the time
   
 ### I'm currently learning   
-- Machine Learning with TensorFlow, Kaggle and teachable Machine
-- OpenCV with C++ and python.
-- 3D after effects with Maxon Cinema4D.
-- Android with Java and flutter.  
+- DSA
+- Flutter
+- Android for Java and Java
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.

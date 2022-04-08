@@ -23,8 +23,4 @@ I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.
-- [YouTube](https://youtube.com/c/pixincreate) channel.
-  
-### Fun fact about me:
-- Paranoid about Online **Privacy**.
-- **Jalebi** is love.
+- [YouTube](https://youtube.com/c/pixincreate1) channel.

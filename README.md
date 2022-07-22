@@ -13,13 +13,12 @@ I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2
 ### I'm currently working on and planning to work  
 - `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)
 - `> Diary_` (A dairy to record your life that can calculate your expenses along with keeping your memories intact for years!)
+- Kanekt (A YourPhone alternative that uses brave-sync kind of phrase to connect 2 devices)
 - 2 Websites (DJango + MongoDB and Heroku + PostGreSQL)
 - Gaming most of the time
   
 ### I'm currently learning   
-- DSA
-- Flutter
-- Android for Java and Java
+- LOL
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.

@@ -9,6 +9,7 @@ I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2
 - HTML
 - SQL
 - Golang
+- Verilog
   
 ### I'm currently working on and planning to work  
 - `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)

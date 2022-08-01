@@ -1,15 +1,16 @@
-# Hi there, it's me, PiX!
-A guy with dreams, striving to get his dreams come true.!   
-I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
+# Orewa! Konichiwa!?
+## A viual overhaul will be given in the coming days, SEM exams going on!
+A guy with dreams.!   
+I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
   
 ### Languages known to Digital World:  
-- C/C++
-- Java
-- Python
-- HTML
-- SQL
-- Golang
-- Verilog
+- C/C++ [intermediate]
+- Java  [Beginner]
+- Python  [Intermediate]
+- HTML  [LOL]
+- SQL [Have pretty good experience with MongoDB and have a little knowledge about SQL-G10]
+- Golang  [Beginner, haven't coded it in past 2 years, might have forgotten!]
+- Verilog [Have knowledge about it, struggle to get things work, can manage!]
   
 ### I'm currently working on and planning to work  
 - `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)
@@ -19,8 +20,10 @@ I'm a **20** year old **Coder** and **Content Creator** on **YouTube** since **2
 - Gaming most of the time
   
 ### I'm currently learning   
-- LOL
+- Python
+- Planning to learn Android
+- Batch files and shell scripts for automation
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.
-- [YouTube](https://youtube.com/c/pixincreate1) channel.
+- Subscribe to my YouTube channel [_**here**_](https://youtube.com/c/pixincreate1) channel.

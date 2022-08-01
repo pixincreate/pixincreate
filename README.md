@@ -15,8 +15,8 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 ### I'm currently working on and planning to work  
 - `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)
 - `> Diary_` (A dairy to record your life that can calculate your expenses along with keeping your memories intact for years!)
-- `Kanekt` (A YourPhone alternative that uses brave-sync kind of phrase to connect 2 devices)
-- 2 Websites (DJango + MongoDB and Heroku + PostGreSQL)
+- `Yugo`[Yoke in Spanish] (A YourPhone alternative that uses brave-sync kind of phrase to connect 2 devices) 
+- A Magisk based website, I'm not sure how that would go.
 - Gaming most of the time
   
 ### I'm currently learning   

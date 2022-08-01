@@ -1,5 +1,5 @@
 # Orewa! Konichiwa!?
-## A viual overhaul will be given in the coming days, SEM exams going on!
+## A visual overhaul will be given in the coming days, SEM exams going on!
 A guy with dreams.!   
 I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
   

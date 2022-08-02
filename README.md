@@ -26,4 +26,4 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.
-- Subscribe to my YouTube channel [_**here**_](https://youtube.com/c/pixincreate1) channel.
+- Subscribe to my YouTube channel [_**here**_](https://youtube.com/c/pixincreate1).

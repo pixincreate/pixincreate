@@ -3,8 +3,14 @@
 A guy with dreams.!   
 I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pixincreate&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD4E1D)](https://git.io/streak-stats)
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pixincreate&theme=green_nur&hide_border=true&count_private=true)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixincreate&theme=green_nur&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=green_nur&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 ### Languages known to Digital World:  
 - C/C++ [intermediate]

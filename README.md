@@ -3,6 +3,9 @@
 A guy with dreams.!   
 I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pixincreate&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD4E1D)](https://git.io/streak-stats)
+  
+  
 ### Languages known to Digital World:  
 - C/C++ [intermediate]
 - Java  [Beginner]
@@ -13,9 +16,9 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 - Verilog [Have knowledge about it, struggle to get things work, can manage!]
   
 ### I'm currently working on and planning to work  
-- `Lenz` (A Google Lens open source alternative that uses Google's very own MLKit with all the telemetries disabled and much)
-- `> Diary_` (A dairy to record your life that can calculate your expenses along with keeping your memories intact for years!)
-- `Yugo`[Yoke in Spanish] (A YourPhone alternative that uses brave-sync kind of phrase to connect 2 devices) 
+- `Lenz`
+- `> Diary_`
+- `Yugo`[Yoke in Spanish]
 - A Magisk based website, I'm not sure how that would go.
 - Gaming most of the time
   
@@ -23,6 +26,7 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 - Python
 - Planning to learn Android
 - Batch files and shell scripts for automation
+- DSA
   
 ### How to reach me?  
 - You can contact me at **pixincreate@gmail.com** via mail.

@@ -7,7 +7,6 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate)
 
 

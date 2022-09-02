@@ -22,20 +22,20 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 ### I'm currently working on and planning to work  
 - `Lenz`
 - `> Diary_`
-- `Yugo`[Yoke in Spanish]
+- `Yugo`(Spanish)[Yoke in English] which means Link. 
 - A Magisk based website, I'm not sure how that would go.
 - Gaming most of the time
   
 ### I'm currently learning   
 - Python
-- Planning to learn Android
-- Batch files and shell scripts for automation
+- Learning Android
+- Linux
 - DSA
-- PhD. in Procrastination
+- Web Development 
   
 ### Experience
-- Have worked with Aquem Private Limited for 3+ months and built [pymojango-framework](https://github.com/pixincreate/pymojango-framework)
-  - The company rejected to work with us as the project got delayed as we had semester exams.
+- Have worked with Aquem Services Limited for 3+ months and built [pymojango-framework](https://github.com/pixincreate/pymojango-framework)
+  - The company rejected to work with us as the project got delayed due to semester exams that we had.
 - Published a research paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/9688513) based Currency recognition system
 
 ### How to reach me?  

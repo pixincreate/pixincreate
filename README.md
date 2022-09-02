@@ -12,10 +12,11 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 
 ### Languages known to Digital World:  
 - C/C++ [intermediate]
-- Java  [Beginner]
-- Python  [Intermediate]
-- HTML  [LOL]
-- SQL [Have pretty good experience with MongoDB and have a little knowledge about SQL-G10]
+- Kotlin [Beginner]
+- Java [Beginner]
+- Python [Intermediate]
+- HTML, CSS and JS [Beginner]
+- SQL [Have pretty good experience with MongoDB and little knowledge about SQL-G10]
 - Golang  [Beginner, haven't coded it in past 2 years, might have forgotten!]
 - Verilog [Have knowledge about it, struggle to get things work, can manage!]
   

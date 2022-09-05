@@ -1,16 +1,5 @@
 # Namaskaara 🙏
 I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pixincreate&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate)
-
-
-### Languages known to Digital World:  
 <p align="left"> 
     <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/officel/48/c-plus-plus.png"/> </a>
     <a href="https://www.kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/> </a>
@@ -20,6 +9,15 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
     <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png/"> </a>
 </p>
   
+ # 
+ <p align="left">
+    <a href="[Github stats](https://github-readme-stats.vercel.app/)"> <img src="https://github-readme-stats.vercel.app/api?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/> </a>
+    <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pixincreate&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
+    <a href="[Top Langs](https://github.com/anuraghazra/github-readme-stats)"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> </a>
+</p>
+
+[![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate)
+
 ### I'm currently working on and planning to work  
 - `Lenz`
 - `> Diary_`

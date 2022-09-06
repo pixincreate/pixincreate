@@ -1,5 +1,5 @@
 # Namaskaara 🙏
-I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**.   
+I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**   
 <p align="left"> 
     <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/officel/48/c-plus-plus.png"/> </a>
     <a href="https://www.kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/> </a>

@@ -30,7 +30,8 @@ I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2
 - Learning Android
 - Linux
 - DSA
-- Web Development 
+- Web Development
+- Machine Learning
   
 ### Experience
 - Have worked with Aquem Services Limited for 3+ months and built [pymojango-framework](https://github.com/pixincreate/pymojango-framework)

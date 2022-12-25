@@ -1,5 +1,5 @@
 # Namaskaara 🙏
-I'm a **21** year old **Coder** and **Content Creator** on **YouTube** since **2017**   
+I'm a **21** year old final year **Electronics and Communications** kid who again is a **Coder** and **Content Creator** on **YouTube** since **2017**   
 #
 
 <p align="center"> 

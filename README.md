@@ -23,7 +23,8 @@ I'm a **21** year old final year **Electronics and Communications** kid who agai
     <a href="[Top Langs](https://github.com/anuraghazra/github-readme-stats)"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixincreate&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> </a>
 </p>
 
-[![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate)
+<!-- 
+[![PiX's github activity graph](https://activity-graph.herokuapp.com/graph?username=pixincreate&theme=gotham)](https://github.com/pixincreate) -->
 
 ### I'm currently working on and planning to work  
 - `Lenz`

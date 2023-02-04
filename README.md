@@ -34,6 +34,7 @@ I'm a **21** year old final year **Electronics and Communications** kid who agai
 - Gaming most of the time
   
 ### I'm currently learning   
+- Rust
 - Python
 - Learning Android
 - Linux

@@ -13,7 +13,7 @@ I'm a **21** year old final year **Electronics and Communications** kid who agai
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png/"> </a>
+    <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a>
 </p>
   
  # 

@@ -4,6 +4,7 @@ Currently maintaining:
 - [Configs](https://github.com/pixincreate/configs) -- My PC Configs
 - [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
 - [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
+- [PrivacyGuides-India](https://github.com/pixincreate/PrivacyGuides-India) -- Everytime I touch this repo, GitHub flags my account as `Spammy`
 - [Signal](https://github.com/pixincreate/Signal) -- More features
 - [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
 - [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices

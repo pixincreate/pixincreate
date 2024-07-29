@@ -1,1 +1,39 @@
-...
+Currently maintaining:
+
+- [BCR](https://github.com/pixincreate/BCR) -- Planning to make it record calls automatically without root
+- [Configs](https://github.com/pixincreate/configs) -- My PC Configs
+- [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
+- [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
+- [Signal](https://github.com/pixincreate/Signal) -- More features
+- [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
+- [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices
+
+I know, I'm a shitty coder. A lot more to be done.
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pixincreate/count.svg" />
+</p>
+
+### You can reach me at:   
+[Portfolio](https://pixincreate.dev)
+<a href="https://pixincreate.dev">
+  <img align="left" alt="PiX's portfolio" width="25px" src="https://avatars.githubusercontent.com/u/69745008?v=4"/>
+</a>
+
+[LinkedIn](https://www.linkedin.com/in/pavananarayanak/)
+<a href="https://www.linkedin.com/in/pavananarayanak/">
+  <img align="left" alt="PiX on LinkedIn" width="25px" src="https://imgs.search.brave.com/TQTym5qzpizZ5GHIgpHu6-RTEchhOps_4v-FWSI8ZIE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"/>
+</a>
+
+[YouTube](https://youtube.com/c/pixincreate1)
+<a href="https://youtube.com/c/pixincreate1">
+  <img align="left" alt="PiXinCreate on YouTube" width="25px" src="https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v"/>
+</a>
+
+[Stackoverflow](https://android.stackexchange.com/users/335965/theycallmepix)
+<a href="https://android.stackexchange.com/users/335965/theycallmepix">
+  <img align="left" alt="PiX on stackoverflow" width="25px" src="https://imgs.search.brave.com/snMTn5UndzYVBcY9ljraLivTObHfHpTei9IWTdrtCj4/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8"/>
+</a>
+
+

@@ -6,9 +6,9 @@ Currently maintaining:
 - [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
 - [PixeneOS](https://github.com/pixincreate/PixeneOS) -- GrapheneOS with added apps (GrapheneOS++)
 - [PrivacyGuides-India](https://github.com/pixincreate/PrivacyGuides-India) -- Everytime I touch this repo, GitHub flags my account as `Spammy`
+- [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices
 - [Signal](https://github.com/pixincreate/Signal) -- More features
 - [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
-- [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices
 
 I know, I'm a shitty coder. A lot more to be done.
 

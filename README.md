@@ -1,6 +1,5 @@
 Currently maintaining:
 
-- [BCR](https://github.com/pixincreate/BCR) -- Planning to make it record calls automatically without root
 - [Configs](https://github.com/pixincreate/configs) -- My PC Configs
 - [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
 - [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
@@ -9,8 +8,8 @@ Currently maintaining:
 - [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices
 - [Signal](https://github.com/pixincreate/Signal) -- More features
 - [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
+- [zParse](https://github.com/pixincreate/zParse) -- A fast JSON and TOML parser with added converters. In Rust, we trust.
 
-I know, I'm a shitty coder. A lot more to be done.
 
 <p align="center"> 
   Visitor count<br>
@@ -18,6 +17,7 @@ I know, I'm a shitty coder. A lot more to be done.
 </p>
 
 ### You can reach me at:   
+
 [Portfolio](https://pixincreate.dev)
 <a href="https://pixincreate.dev">
   <img align="left" alt="PiX's portfolio" width="25px" src="https://avatars.githubusercontent.com/u/69745008?v=4"/>

@@ -3,6 +3,7 @@ Currently maintaining:
 - [Configs](https://github.com/pixincreate/configs) -- My PC Configs
 - [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
 - [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
+- [KeyWatch](https://github.com/pixincreate/KeyWatch) -- A vigilant credential guardian that stops you from committing secrets
 - [PixeneOS](https://github.com/pixincreate/PixeneOS) -- GrapheneOS with added apps (GrapheneOS++)
 - [PrivacyGuides-India](https://github.com/pixincreate/PrivacyGuides-India) -- Everytime I touch this repo, GitHub flags my account as `Spammy`
 - [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices

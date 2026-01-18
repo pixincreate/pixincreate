@@ -1,6 +1,8 @@
 Currently maintaining:
 
-- [Configs](https://github.com/pixincreate/configs) -- My PC Configs
+- [CapSync](https://github.com/pixincreate/CapSync) -- Sync your AI skills across multiple tools with a click and a wink
+- [Configs](https://github.com/pixincreate/configs) -- My PC Configs AKA `Omaforge`
+- [Connector-Service](https://github.com/juspay/Connector-Service) -- Unified Connector Service
 - [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
 - [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
 - [KeyWatch](https://github.com/pixincreate/KeyWatch) -- A vigilant credential guardian that stops you from committing secrets

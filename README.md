@@ -20,7 +20,7 @@
 
 ## Websites
 
-- [Loomaface](https://loomaface.com) -- Facial structural analysis using deterministic algorithm with personalized recommendation AKA Looksmaxxing recommender
+- [Loomaface](https://loomaface.com) -- Facial structural analysis using deterministic algorithm with personalized recommendation
 - [Utilly / DevUtils](https://utilly.pages.dev) -- An All in one Developer utility website
 
 ### Links:   

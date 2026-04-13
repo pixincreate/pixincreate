@@ -1,4 +1,6 @@
-Currently maintaining:
+# Hey! It's me, sloperator!
+
+## Projects
 
 - [axon](https://github.com/pixincreate/axon) -- An AI prompt router
 - [CapSync](https://github.com/pixincreate/CapSync) -- Sync your AI skills across multiple tools with a click and a wink
@@ -16,10 +18,12 @@ Currently maintaining:
 - [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
 - [zParse](https://github.com/pixincreate/zParse) -- A zero-dependency JSON/TOML/YAML/XML/CSV parser and converter built in Rust
 
+## Websites
+
 - [Loomaface](https://loomaface.com) -- Facial structural analysis using deterministic algorithm with personalized recommendation AKA Looksmaxxing recommender
 - [Utilly / DevUtils](https://utilly.pages.dev) -- An All in one Developer utility website
 
-### You can reach me at:   
+### Links:   
 
 - [Portfolio](https://pixincreate.dev)
   <a href="https://pixincreate.dev">

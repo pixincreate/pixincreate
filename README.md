@@ -1,27 +1,74 @@
-# Hey! It's me, sloperator!
+# sloperator
 
-## Projects
+I build developer tools, system-level modifications, and small infrastructure that solve real problems.
 
-- [axon](https://github.com/pixincreate/axon) -- An AI prompt router
-- [CapSync](https://github.com/pixincreate/CapSync) -- Sync your AI skills across multiple tools with a click and a wink
-- [Connector-Service](https://github.com/juspay/Connector-Service) -- Unified Connector Service
-- [gito](https://github.com/pixincreate/gito) -- An opinionated github cli wrapper for PR workflow
-- [Hyperswitch](https://github.com/juspay/Hyperswitch) -- Open source Payments switch
-- [Magisk](https://github.com/pixincreate/Magisk) -- Magic mask for GrapheneOS
-- [KeyWatch](https://github.com/pixincreate/KeyWatch) -- A vigilant credential guardian that stops you from committing secrets
-- [Omaforge](https://github.com/pixincreate/omaforge) -- One click machine setup
-- [PixeneOS](https://github.com/pixincreate/PixeneOS) -- GrapheneOS with added apps (GrapheneOS++)
-- [PrivacyGuides-India](https://github.com/pixincreate/PrivacyGuides-India) -- Everytime I touch this repo, GitHub flags my account as `Spammy`
-- [Shizuku](https://github.com/pixincreate/Shizuku) -- Auto start on rootless devices
-- [Signal](https://github.com/pixincreate/Signal) -- More features
-- [Skillset](https://github.com/pixincreate/skillset) -- AI Skills
-- [Snake Xenzia](https://github.com/pixincreate/snake_game) -- I wrote a snake game last year
-- [zParse](https://github.com/pixincreate/zParse) -- A zero-dependency JSON/TOML/YAML/XML/CSV parser and converter built in Rust
+---
 
-## Websites
+## Focus
 
-- [Loomaface](https://loomaface.com) -- Facial structural analysis using deterministic algorithm with personalized recommendation
-- [Utilly / DevUtils](https://utilly.pages.dev) -- An All in one Developer utility website
+* Developer tooling (CLI, automation, workflows)
+* Systems programming (Rust, performance, parsing)
+* Security & reliability (preventing real-world mistakes)
+* Android / OS-level customization
+
+---
+
+## Featured Work
+
+### [zParse](https://github.com/pixincreate/zparse)
+
+Zero-dependency multi-format parser (JSON / TOML / YAML / XML / CSV) in Rust
+→ Focus: performance + unified parsing abstraction
+
+### [KeyWatch](https://github.com/pixincreate/keywatch)
+
+Prevents secrets from being committed into repositories
+→ Built for real-world developer mistakes, not theory
+
+### [PixeneOS](https://github.com/pixincreate/pixeneos)
+
+Opinionated GrapheneOS with extended capabilities
+→ Automated builds
+
+---
+
+## Systems / Android Work
+
+* [Gito](https://github.com/pixincreate/gito) — Opinionated GitHub CLI wrapper for PR workflows
+* [Magisk (fork)](https://github.com/pixincreate/magisk) — compatibility fixes for GrapheneOS
+* [Shizuku (fork)](https://github.com/pixincreate/shizuku) — improving usability on restricted devices
+
+I tend to work where systems are restrictive or intentionally limited.
+
+---
+
+## Other Projects
+
+* [CapSync](https://github.com/pixincreate/capsync) — sync AI workflows across tools
+* [Omaforge](https://github.com/pixincreate/omaforge) — one-click machine setup
+* [Loomaface](https://loomaface.com) — deterministic private facial analysis
+* [Utilly](https://utilly.pages.dev) — developer utilities
+
+---
+
+## Open Source
+
+* Contributions to Hyperswitch (payments infra)
+* Fixes, forks, and modifications where upstream didn’t meet my needs
+
+---
+
+## Philosophy
+
+* Build tools that are actually used
+* Prefer small, sharp systems over large, vague ones
+* If something is annoying enough, I’ll automate or rewrite it
+
+---
+
+## Contact
+
+Open to collaboration on developer tools, systems, or infra.
 
 ### Links:   
 

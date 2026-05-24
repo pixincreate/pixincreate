@@ -45,7 +45,7 @@ I tend to work where systems are restrictive or intentionally limited.
 ## Other Projects
 
 * [CapSync](https://github.com/pixincreate/capsync) — sync AI workflows across tools
-* [Omaforge](https://github.com/pixincreate/omaforge) — one-click machine setup
+* [Rig](https://github.com/pixincreate/rig) — one-click machine setup
 * [Loomaface](https://loomaface.com) — deterministic private facial analysis
 * [Utilly](https://utilly.pages.dev) — developer utilities
 

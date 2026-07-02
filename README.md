@@ -46,6 +46,7 @@ I tend to work where systems are restrictive or intentionally limited.
 
 * [CapSync](https://github.com/pixincreate/capsync) — sync AI workflows across tools
 * [Rig](https://github.com/pixincreate/rig) — one-click machine setup
+* [sesh - opencode-global-sessions](https://github.com/pixincreate/opencode-global-sessions) - Never lose an OpenCode session to the wrong directory again.
 * [Loomaface](https://loomaface.com) — deterministic private facial analysis
 * [Utilly](https://utilly.pages.dev) — developer utilities
 
